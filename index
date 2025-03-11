@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+
+    
+<!--Code for 1st output-->
+    <div class="bg">
+        <h1><b>Business<br>Development</b></h1>
+        <p>Have an idea or inquiry for Waze business development?</p><br>
+        <button class="btn"><b>Share your ideas</b></button>
+     </div>
+
+<!--Code for 2nd output-->
+
+     <div class="box">
+        <p class="pqr">Your Profiles</p>
+        <p class=" abc">See how your different profiles appear in Google<br>servies</p>
+        <img  class="circle-img" alt="Image 1" src="https://th.bing.com/th/id/R.980346a957575faf2539c54f9fbe727d?rik=uKeGCLDQJ%2bs%2fXw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fuCwNhgL.jpg&ehk=X7qx2z86lNr7FMa8doCJ6Ekib3uoBTHaxq%2fT343Xui4%3d&risl=&pid=ImgRaw&r=0">
+        <img  class="circle-img" alt="Image 2" src="https://th.bing.com/th/id/OIP.923qZ6IgmSEtLBY-tljkcAHaE7?w=299&h=197&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+        <div class="section large"></div>
+        <hr style="line: 1px lightgrey; margin: 0; width: 100%;">
+        <p class="xyz">See profiles</p>
+    </div> 
+
+<!--Code for 3rd output-->
+
+    <div class="card box1">
+        <img src="https://www.glorioushimalaya.com/wp-content/uploads/2017/03/holi.jpg" alt="Google Photos Feature">
+        <div class="card-content">
+            <p class="title"><i class="fa-solid fa-lock lock-icon"></i> Subscribe to Any Plan</p>
+            <p class="heading">Get more features in Google Photos</p>
+            <p class="description">
+                Bring your favorite moments to life with more Google Photos editing tools for Android and iOS, including Magic Eraser. Subject to eligibility.
+            </p><br>
+            <button class="btn1">View details</button>
+        </div>
+    </div>
+
+<!--Code for 4th output-->
+
+    <div class="login">
+        <img src="https://th.bing.com/th/id/OIP.G2E4hfK2L-clPzbiYjApSQHaCJ?rs=1&pid=ImgDetMain" alt="" class="logo">
+        <h5>Welcome Back!</h4>
+        <input type="text" class="input" placeholder="Enter your email">
+        <input type="text" class="input" placeholder="Enter your password">
+        <button class="login-btn">Log in to Flodesk</button>
+        <p class="abc signup-text">Not a member? <a href="#">Sign up</a></p>
+        <p class="forgot-password"><a href="#">Forgot your password?</a></p>
+        <p class="terms">
+            By continuing, you agree to Flodesk’s <a href="#">terms</a>
+            and acknowledge you’ve read our <a href="#">privacy policy</a>.
+        </p>    
+    </div>
+
+</body>
+</html>
