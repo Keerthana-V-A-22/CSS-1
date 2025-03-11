@@ -1,0 +1,183 @@
+body{
+    font-family:sans-serif;
+}
+
+/*CSS Code for 1st Output*/
+
+.bg{
+    background-color: rgb(79, 233, 146);
+    width: 500px;
+    margin:auto auto;
+    color: black;
+    padding:100px 50px;
+    border-radius: 10px;
+}
+.btn{
+    background-color: white;
+    border: none;
+    padding: 12px 40px;
+    margin:auto auto;
+    font-size: 19px;
+    border-radius: 100px;
+}
+
+/*CSS Code for 2nd Output*/
+
+.abc{
+    color: grey;
+}
+
+.xyz{
+    color: rgb(45, 133, 255);
+}
+
+.pqr{
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.center{
+    text-align: center;
+}
+
+.box{
+   border: 1px solid lightgray;
+   width: 450px;
+   padding: 14px;
+   margin: 60px auto;
+   border-radius: 14px;
+}
+
+.box-img{
+    width: 100%;
+    border-radius: 14px;
+}
+
+.circle-img {
+    width: 80px;
+    height: 80px;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/*CSS Code for 3rd Output*/
+
+.card {
+    width: 500px;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.box1{
+    border: 1px solid lightgray;
+    width: 400px;
+    margin: 60px auto;
+    border-radius: 14px;
+}
+
+.card img {
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.lock-icon {
+    font-size: 14px;
+    color: #666;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: grey;
+    margin: 5px 0;
+    text-transform: uppercase;
+}
+
+.heading {
+    font-size: 30px;
+    color: #000;
+    margin: 10px 0;
+}
+
+.description {
+    font-size: 18px;
+    color: grey;
+    line-height: 1.4;
+    margin-bottom: 15px;
+}
+
+.btn1 {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #1a73e8;
+    background: transparent;
+    border: 1px solid #1a73e8;
+    border-radius: 6px;
+
+}
+
+
+/*CSS Code for 4th output */
+.logo{
+    height: 40px;
+}
+
+.input{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 12px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: gray;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 10px;
+}
+
+.login{
+    width: 340px;
+    margin: 120px auto;
+    text-align: center;
+}
+
+.login-btn{
+    width: 55%;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    padding: 13px;
+    font-size: 16px;
+    border-radius: 30px;
+    border: none;
+}
+
+.signup-text,
+.forgot-password {
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.signup-text a,
+.forgot-password a {
+    color: black;
+    text-decoration: underline;
+}
+
+.terms {
+    font-size: 12px;
+    color: gray;
+    margin-top: 20px;
+}
+
+.terms a {
+    color: gray;
+    text-decoration: underline;
+}
